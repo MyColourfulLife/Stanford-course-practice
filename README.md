@@ -1,5 +1,5 @@
 # Stanford-course-practice
-斯坦福课程实践
+斯坦福课程实践，更新中。。。
 
 # FaceIT https://github.com/MyColourfulLife/FaceIt
 - 自定义视图
