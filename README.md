@@ -15,7 +15,7 @@
 - 耗时操作返回时判断是否需要继续处理
 - iPhone，iPad平台适配
 
-# SmashTag: https://github.com/MyColourfulLife/SmashTag.git
+# SmashTag:https://github.com/MyColourfulLife/SmashTag.git
 - 编译并使用framework
 - 使用TableView展示数据流
 - 支持动态行高
@@ -25,7 +25,7 @@
 - 支持下拉刷新
 - 使用coreData
 
-# Calculator：https://github.com/MyColourfulLife/Calculator.git
+# Calculator:https://github.com/MyColourfulLife/Calculator.git
 - 使用autoLayout处理约束
 - 使用sizeClass适配各种尺寸的iPhone及iPad及其横屏竖屏，设置任意宽高的通用布局和单一方向的专属布局。
 - iPhone非plus，在横屏时 宽高方向都时紧凑。
