@@ -25,8 +25,7 @@
 - 支持下拉刷新
 - 使用coreData
 
-# Calculator： https://github.com/MyColourfulLife/Calculator.git
-
+# Calculator：https://github.com/MyColourfulLife/Calculator.git
 - 使用autoLayout处理约束
 - 使用sizeClass适配各种尺寸的iPhone及iPad及其横屏竖屏，设置任意宽高的通用布局和单一方向的专属布局。
 - iPhone非plus，在横屏时 宽高方向都时紧凑。
