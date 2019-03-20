@@ -1,12 +1,15 @@
 # Stanford-course-practice
 斯坦福课程实践，更新中。。。
 
-# FaceIT: https://github.com/MyColourfulLife/FaceIt
+# FaceIt: https://github.com/MyColourfulLife/FaceIt
 - 自定义视图
 - 触摸与手势
 - MVC架构
 - 控制器生命周期
 - iPhone，iPad平台适配
+- 使用定时器
+- 使用动画实现眨眼
+- 使用动画实现摇头
 
 # cassini: https://github.com/MyColourfulLife/cassini.git
 - 多线程技术
