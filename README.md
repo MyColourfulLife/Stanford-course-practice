@@ -1,5 +1,5 @@
 # Stanford-course-practice
-斯坦福课程实践，更新中。。。
+斯坦福课程实践，已更新完
 
 # FaceIt: https://github.com/MyColourfulLife/FaceIt
 - 自定义视图
@@ -10,6 +10,13 @@
 - 使用定时器
 - 使用动画实现眨眼
 - 使用动画实现摇头
+- 新增表情编辑功能，使用静态cell
+- 使用Embed Segue容纳另一个MVC
+- 计算popover controller内容的高度以在iPad上弹出合适的popoverer大小
+- 使用Unwind segue来反向传值
+- 使用should segue来检验输入决定是否执行segue
+- 使用alert弹窗来询问用户并执行输入
+- 使用代码自动执行segue操作
 
 # cassini: https://github.com/MyColourfulLife/cassini.git
 - 多线程技术
